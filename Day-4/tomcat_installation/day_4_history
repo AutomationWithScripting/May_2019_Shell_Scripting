@@ -1,0 +1,1000 @@
+  220  vi install_git_vim_wget.sh 
+  221  whoami
+  222  id -u
+  223  sudo whoami
+  224  sudo id -u
+  225  sudo su 
+  226  vi install_git_vim_wget.sh 
+  227  chmod +x install_git_vim_wget.sh 
+  228  ./install_git_vim_wget.sh 
+  229  sudo ./install_git_vim_wget.sh 
+  230  vi install_git_vim_wget.sh 
+  231  clear
+  232  ./install_git_vim_wget.sh 
+  233  sudo ./install_git_vim_wget.sh 
+  234  clear
+  235  sudo yum remove git
+  236  sudo yum remove vim wget
+  237  clear
+  238  ./install_git_vim_wget.sh 
+  239  sudo su
+  240  clear
+  241  ./install_git_vim_wget.sh 
+  242  vi install_git_vim_wget.sh 
+  243  clear
+  244  top
+  245  whoami
+  246  cd /tmp
+  247  vi test.sh
+  248  chmod +x test.sh 
+  249  ./test.sh 
+  250  sudo ./test.sh 
+  251  vi test.sh 
+  252  sudo ./test.sh 
+  253  ./test.sh 
+  254  clear
+  255  sudo su 
+  256  git --version
+  257  which git
+  258  wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.10.2.tar.gz
+  259  ls
+  260  tar -xvzf git-2.10.2.tar.gz 
+  261  clear
+  262  ls
+  263  cd git-2.10.2
+  264  ls
+  265  ./configure 
+  266  clear
+  267  wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.10.2.tar.gzs
+  268  echo $?
+  269  clear
+  270  cd
+  271  cd ShellSCRIPTS/
+  272  ls
+  273  vi automate_git_installation.sh
+  274  mkdir automate_git
+  275  mv automate_git_installation.sh  automate_git/
+  276  cd automate_git/
+  277  ls
+  278  vi req.cfg
+  279  vi automate_git_installation.sh 
+  280  sh automate_git_installation.sh 
+  281  vi automate_git_installation.sh 
+  282  sh automate_git_installation.sh 2.10.2
+  283  sudo yum remove git
+  284  sh automate_git_installation.sh 2.10.2
+  285  clear
+  286  vi automate_git_installation.sh 
+  287  sudo yum install git
+  288  sh automate_git_installation.sh 2.10.2
+  289  which git
+  290  which git 1>/dev/null
+  291  clear
+  292  vi automate_git_installation.sh 
+  293  which git
+  294  git --version
+  295  git --version|awk '{print $3}"
+  296  git --version|awk '{print $3}'
+  297  vi automate_git_installation.sh 
+  298  sh automate_git_installation.sh 2.10.2
+  299  vi automate_git_installation.sh 
+  300  sh automate_git_installation.sh 2.10.2
+  301  vi automate_git_installation.sh 
+  302  sh automate_git_installation.sh 2.10.2
+  303  vi automate_git_installation.sh 
+  304  sh automate_git_installation.sh 2.10.2
+  305  vi automate_git_installation.sh 
+  306  sh automate_git_installation.sh 2.10.2
+  307  sh automate_git_installation.sh 1.8
+  308  clear
+  309  ls
+  310  vi automate_git_installation.sh 
+  311  sh automate_git_installation.sh 2.3.4
+  312  wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.3.4.tar.gz
+  313  ls
+  314  tar -xvzf git-2.3.4.tar.gz 
+  315  clear
+  316  ls
+  317  rm -rf git-2.3.4*
+  318  clea
+  319  clear
+  320  vi automate_git_installation.sh 
+  321  sh automate_git_installation.sh 2.3.4
+  322  basename https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.3.4.tar.gz
+  323  vi automate_git_installation.sh 
+  324  ls
+  325  rm -rf git-2.3.4.tar.gz 
+  326  sh automate_git_installation.sh 2.3.4
+  327  clear
+  328  ls
+  329  vi automate_git_installation.sh 
+  330  ls
+  331  sh automate_git_installation.sh 2.3.4
+  332  ls
+  333  x="https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.3.4.tar.gz"
+  334  x="git-2.3.4.tar.gz"
+  335  echo ${x%.tar.gz}
+  336  vi automate_git_installation.sh 
+  337  which git
+  338  vi automate_git_installation.sh 
+  339  sh automate_git_installation.sh 2.3.4
+  340  um install curl-devel expat-devel gettext-devel openssl-devel zlib-devel -y
+  341  sudo yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel -y
+  342  sudo yum install gcc perl-ExtUtils-MakeMaker -y
+  343  clear
+  344  ls
+  345  rm -rf git-2.3.4*
+  346  sh automate_git_installation.sh 2.3.4
+  347  ls
+  348  which git
+  349  sudo yum install git -y
+  350  locate git
+  351  sudo find / -iname git
+  352  /etc/bash_completion.d/git
+  353  sudo /etc/bash_completion.d/git --version
+  354  sudo yum install locate
+  355  find / -iname git
+  356  /etc/bash_completion.d/git
+  357  sudo yum install git
+  358  sudo alternatives --git
+  359  sudo alternatives --list
+  360  vi automate_git_installation.sh 
+  361  sh automate_git_installation.sh 2.3.4
+  362  which git
+  363  cd git-2.3.4
+  364  clear
+  365  ./configure 
+  366  make
+  367  make install
+  368  make prefix=/usr/local/git all
+  369  make prefix=/usr/local/git install
+  370  sudo make prefix=/usr/local/git install
+  371  which git
+  372  `echo "export PATH=/usr/local/git/bin:$PATH" >> /etc/bashrc
+  373  echo "export PATH=/usr/local/git/bin:$PATH" >> /etc/bashrc
+  374  sudo echo "export PATH=/usr/local/git/bin:$PATH" >> /etc/bashrc
+  375  sudo su -
+  376  clear
+  377  exit
+  378  clear
+  379  ls
+  380  sudo init 0
+  381  cd ShellSCRIPTS/
+  382  ls
+  383  cd automate_git/
+  384  cat automate_git_installation.sh 
+  385  cat /etc/shells 
+  386  sudo yum install ksh csh tsh
+  387  clear
+  388  ls
+  389  cat /etc/shells 
+  390  clear
+  391  which shell
+  392  which $SHELL
+  393  sudo yum install zsh
+  394  chsh /bin/zsh
+  395  clear
+  396  cat /etc/shells 
+  397  chsh
+  398  sudo chsh
+  399  which $SHELL
+  400  sudo chsh
+  401  which $SEHLL
+  402  which $SHELL
+  403  clear
+  404  chsh
+  405  clear
+  406  top
+  407  clear
+  408  free -m
+  409  free -m | grep Mem:
+  410  free -m | grep Mem:| awk '{ print $4 }'
+  411  vi freeram
+  412  sh freeram 
+  413  chmod +x freeram 
+  414  ./freeram 
+  415  ls
+  416  clear
+  417  ls
+  418  clear
+  419  cat /etc/shells 
+  420  ls
+  421  which $SHELL
+  422  clear
+  423  ls
+  424  pwd
+  425  echo $USER
+  426  date
+  427  history
+  428  clear
+  429  mkdir May_2019
+  430  cd May_2019/
+  431  vi demo.sh
+  432  cat demo.sh 
+  433  sh demo.sh 
+  434  vim --version
+  435  clear
+  436  wget --version
+  437  clear
+  438  vi install_vim.sh
+  439  sh install_vim.sh 
+  440  sudo yum remove vim -y
+  441  clear
+  442  sh install_vim.sh 
+  443  vi install_vim.sh 
+  444  sudo yum install vim -y
+  445  clear
+  446  vi install_vim.sh 
+  447  sh install_vim.sh 
+  448  sudo yum remove wget -y
+  449  y
+  450  clear
+  451  sh install_vim.sh 
+  452  vi install_vim.sh 
+  453  wget --version
+  454  sh install_vim.sh 
+  455  clear
+  456  wget --version
+  457  clear
+  458  sh install_vim.sh 
+  459  cat install_vim.sh 
+  460  clear
+  461  ls
+  462  ls -lrt
+  463  chmod u+x install_vim.sh 
+  464  ls -lrt
+  465  ./install_vim.sh 
+  466  cd
+  467  ./install_vim.sh
+  468  cd May_2019/
+  469  pwd
+  470  ls
+  471  ./install_vim.sh 
+  472  cd
+  473  /home/ec2-user/May_2019/install_vim.sh 
+  474  cd -
+  475  ./install_vim.sh 
+  476   /home/ec2-user/May_2019/install_vim.sh
+  477  clear
+  478  cat install_vim.sh 
+  479  sh install_vim.sh 
+  480  bash install_vim.sh 
+  481  /bin/bash install_vim.sh 
+  482  /bin/ksh install_vim.sh 
+  483  echo $SHELL
+  484  vi install_vim.sh 
+  485  ./install_vim.sh 
+  486  cat install_vim.sh 
+  487  clear
+  488  ls
+  489  cd
+  490  ./freeram 
+  491  cd May_2019/
+  492  freeram
+  493  which ls
+  494  which vim
+  495  which find
+  496  ls
+  497  cd
+  498  ls
+  499  clear
+  500  cat ls
+  501  clear
+  502  ls
+  503  clear
+  504  which ls
+  505  ls -a
+  506  ls bin
+  507  clear
+  508  pwd
+  509  echo $PATH
+  510  ls
+  511  which ls
+  512  mkdir bin
+  513  mv freeram bin/
+  514  freeram 
+  515  cd May_2019/
+  516  pwd
+  517  ls
+  518  freeram 
+  519  cd
+  520  pwd
+  521  cd b
+  522  cd bin/
+  523  pwd
+  524  clear
+  525  cd
+  526  cd May_2019/
+  527  ls
+  528  pwd
+  529  mkdir bin
+  530  ls
+  531  mv install_vim.sh bin/
+  532  pwd
+  533  cd bin/
+  534  pwd
+  535  cd ..
+  536  install_vim.sh
+  537  echo $PATH
+  538  PATH=$PATH:/home/ec2-user/May_2019/bin
+  539  echo $PATH
+  540  install_vim.sh
+  541  exit
+  542  echo $PATH
+  543  clear
+  544  cd May_2019/
+  545  cd bin/
+  546  ls
+  547  pwd
+  548  echo $PATH
+  549  ln -s install_vim.sh /usr/local/bin/inwget
+  550  sudo ln -s install_vim.sh /usr/local/bin/inwget
+  551  cd
+  552  inwget
+  553  sudo su -
+  554  clear
+  555  cd May_2019/bin/
+  556  ls
+  557  pwd
+  558  sudo ln -s /home/ec2-user/May_2019/bin/install_vim.sh  /usr/local/bin/iwget
+  559  iwget 
+  560  cd
+  561  iwget 
+  562  echo $PATH
+  563  PATH=$PATH:/home/ec2-user/bin
+  564  PATH=/home/ec2-user/bin
+  565  ls
+  566  cat
+  567  echo $PATH
+  568  exit
+  569  clear
+  570  ls -a
+  571  vi .bashrc 
+  572  cd May_2019/
+  573  ls
+  574  cd bin/
+  575  ls
+  576  pwd
+  577  cd
+  578  vi .bashrc 
+  579  vi .bash_profile 
+  580  source .bash_profile 
+  581  vi .bash_profile 
+  582  install_vim.sh
+  583  vi .bash_profile 
+  584  lear
+  585  clear
+  586  ls
+  587  cat .bash_profile 
+  588  cd /bin/
+  589  clear
+  590  ls
+  591  clear
+  592  cd
+  593  ls
+  594  cd bin/
+  595  ls
+  596  cat freeram 
+  597  free -m
+  598  pwd
+  599  clear
+  600  ls -lrt
+  601  cd
+  602  ls -a
+  603  cat .bash_history
+  604  history
+  605  ls -a
+  606  cat .bash_profile
+  607  clear
+  608  pwd
+  609  ls -a
+  610  vi .bash_profile 
+  611  vi .bashrc 
+  612  exit
+  613  clear
+  614  vi .bash_profile 
+  615  wget --version
+  616  wget --version 
+  617  echo $?
+  618  adsf --version
+  619  echo $?
+  620  wget --version 1>/dev/null
+  621  echo $?
+  622  adsf --version 1>/dev/null
+  623  adsf --version 1>/dev/null 2>/dev/null
+  624  adsf --version 1>/dev/null 2>&1
+  625  clear
+  626  ls -lart
+  627  cat /etc/shells
+  628  which $SHELL
+  629  clear
+  630  hi
+  631  echo hi
+  632  echo 'hi'
+  633  echo "hi"
+  634  echo "Welcome to shell scripting"
+  635  clear
+  636  ls
+  637  cd May_2019/
+  638  ls
+  639  mkdir Day-1
+  640  cd Day-1/
+  641  vi demo.sh
+  642  chmod u+x demo.sh 
+  643  clear
+  644  ls
+  645  ./demo.sh 
+  646  cat demo.sh 
+  647  echo "Welcome to shell scripting This is frist class"
+  648  echo "Welcome to shell scripting \nThis is frist class"
+  649  echo -e "Welcome to shell scripting \nThis is frist class"
+  650  vi demo.sh 
+  651  cat demo.sh 
+  652  ./demo.sh 
+  653  vi demo.sh 
+  654  ./demo.sh 
+  655  clear
+  656  cat demo.sh 
+  657  vi demo.sh 
+  658  ./demo.sh 
+  659  vi demo.sh 
+  660  ./demo.sh 
+  661  cat demo.sh 
+  662  vi demo.sh 
+  663  ./demo.sh 
+  664  clear
+  665  vi demo.sh 
+  666  ./demo.sh 
+  667  cat demo.sh 
+  668  vi demo.sh 
+  669  echo -e "no spe"
+  670  echo -e "This\tis\shell\tscripting"
+  671  echo -e "This\tis\tshell\tscripting"
+  672  echo -e "This\vis\vshell\vscripting"
+  673  echo -e "This\tis\nshell\vscripting"
+  674  echo  -e "This is"
+  675  echo  -e "This \bis"
+  676  echo  -e "This\bis"
+  677  echo  -e "This is \rxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  678  echo  -e "This is \rxx"
+  679  echo  "This is \rxx"
+  680  echo -e "This is shell scripting class"
+  681  echo -e "\033[0;31mThis is shell scripting class"
+  682  echo -e "\033[0;31mThis is shell scripting class\033[0m"
+  683  echo  "\033[0;31mThis is shell scripting class\033[0m"
+  684  echo -e "\033[0;31mThis is shell scripting class\033[0m"
+  685  echo -e "\033[0;31mThis is \033[0;32mshell\033[0;31m scripting class\033[0m"
+  686  echo -e "\033[0;31mThis is \033[0;32mshell\033[1;31m scripting class\033[0m"
+  687  echo -e "\033[0;31mThis is \033[1;32mshell\033[0;31m scripting class\033[0m"
+  688  echo "Welcome to shell scripting"
+  689  ls;date
+  690  echo "Welcome to shell scripting";echo "This is first class"
+  691  echo -n "Welcome to shell scripting";echo "This is first class"
+  692  echo -n "Welcome to shell scripting";date
+  693  echo "Welcome to shell scripting";date
+  694  echo -n "Welcome to shell scripting";date
+  695  echo -n "Welcome to shell scripting"
+  696  vi demo.sh 
+  697  ./demo.sh 
+  698  vi demo.sh 
+  699  ./demo.sh 
+  700  cat demo.sh 
+  701  echo -ne "This is\nnewconcept"
+  702  echo -e "This is first line\nThis is second line"
+  703  echo -ne "This is first line\nThis is second line"
+  704  clear
+  705  ls
+  706  date
+  707  x=2
+  708  y=5.6
+  709  x =2
+  710  x= 3
+  711  x = 3
+  712  x=3
+  713  y=5.6
+  714  xy=shell
+  715  xy=shell scripting
+  716  xy="shell scripting"
+  717  xy="shell"
+  718  clear
+  719  echo $x
+  720  echo "$x"
+  721  echo "${x}"
+  722  echo '${x}'
+  723  echo 'hello'
+  724  echo '${x}'
+  725  echo "x"
+  726  echo "$x"
+  727  echo "hello"
+  728  echo "s"
+  729  echo "x"
+  730  echo "$x"
+  731  echo "$p"
+  732  python
+  733  clear
+  734  x
+  735  y
+  736  xy
+  737  p
+  738  x%=3
+  739  x1=4
+  740  x2=6
+  741  1x=56
+  742  3x=567
+  743  my name="shell scripting"
+  744  date
+  745  echo $USER
+  746  x=5
+  747  X=67
+  748  echo $x
+  749  echo $X
+  750  clear
+  751  vi about_variable.sh
+  752  sh about_variable.sh 
+  753  chmod 755 about_variable.sh 
+  754  ./about_variable.sh 
+  755  cat about_variable.sh 
+  756  vi about_variable.sh 
+  757  sh about_variable.sh 
+  758  vi about_variable.sh 
+  759  sh about_variable.sh 
+  760  vi about_variable.sh 
+  761  sh about_variable.sh 
+  762  clear
+  763  cat about_variable.sh 
+  764  vi about_variable.sh 
+  765  ./about_variable.sh 
+  766  cat about_variable.sh 
+  767  clear
+  768  echo "$narendra"
+  769  echo "$x"
+  770  exit
+  771  echo "$x"
+  772  echo "$HOME"
+  773  echo "$x"
+  774  echo "$HOME"
+  775  echo "$PWD"
+  776  env
+  777  echo $SHELL
+  778  printenv
+  779  clear
+  780  ls
+  781  sudo init 0
+  782  clear
+  783  cd May_2019/
+  784  ls
+  785  mkdir Day-2
+  786  cd Day-2
+  787  ls
+  788  clear
+  789  sudo su 
+  790  clear
+  791  cd May_2019/
+  792  ls
+  793  mkdir Day-3
+  794  cd Day-3
+  795  ls
+  796  vi cmd_line.sh
+  797  chmod +x cmd_line.sh 
+  798  ./cmd_line.sh 
+  799  ./cmd_line.sh  3
+  800  cat cmd_line.sh 
+  801  ./cmd_line.sh  3 45 67 "narendra" shell script
+  802  clear
+  803  asdf
+  804  echo $?
+  805  ls
+  806  echo $?
+  807  datee
+  808  echo $?
+  809  clear
+  810  vi cmd_line.sh 
+  811  systemctl status httpd
+  812  ./cmd_line.sh 
+  813  systemctl status httpd
+  814  sudo yum remove httpd -y
+  815  clear
+  816  systemctl status httpd
+  817  ./cmd_line.sh 
+  818  sudo yum remove nginx -y
+  819  clear
+  820  vi cmd_line.sh 
+  821  ./cmd_line.sh 
+  822  clear
+  823  sudo yum install httpd -y
+  824  clear
+  825  systemctl status httpd
+  826  sudo systemctl start httpd
+  827  systemctl status httpd
+  828  clear
+  829  systemctl status httpd
+  830  systemctl status httpd|grep Active:
+  831  systemctl status httpd|grep Active: | awk '{print $2}'
+  832  sudo systemctl stop httpd
+  833  systemctl status httpd|grep Active: | awk '{print $2}'
+  834  clear
+  835  vi get_httpd.sh
+  836  chmod +x get_httpd.sh 
+  837  ./get_httpd.sh 
+  838  vi get_httpd.sh 
+  839  ./get_httpd.sh 
+  840  vi get_httpd.sh 
+  841  ./get_httpd.sh 
+  842  vi get_httpd.sh 
+  843  ./get_httpd.sh 
+  844  vi get_httpd.sh 
+  845  ./get_httpd.sh 
+  846  clear
+  847  cat get_httpd.sh 
+  848  vi get_httpd.sh 
+  849  vi start_stop_restart_install_remove_httpd.sh
+  850  chmod +x start_stop_restart_install_remove_httpd.sh 
+  851  ./start_stop_restart_install_remove_httpd.sh 
+  852  vi start_stop_restart_install_remove_httpd.sh 
+  853  cat start_stop_restart_install_remove_httpd.sh 
+  854  ./start_stop_restart_install_remove_httpd.sh 
+  855  clear
+  856  vi start_stop_restart_install_remove_httpd.sh 
+  857  ./start_stop_restart_install_remove_httpd.sh 
+  858  cat start_stop_restart_install_remove_httpd.sh 
+  859  vi start_stop_restart_install_remove_httpd.sh 
+  860  cat start_stop_restart_install_remove_httpd.sh 
+  861  ./start_stop_restart_install_remove_httpd.sh 
+  862  vi start_stop_restart_install_remove_httpd.sh 
+  863  clear
+  864  cat start_stop_restart_install_remove_httpd.sh 
+  865  ./start_stop_restart_install_remove_httpd.sh 
+  866  vi start_stop_restart_install_remove_httpd.sh 
+  867  ./start_stop_restart_install_remove_httpd.sh 
+  868  ./start_stop_restart_install_remove_httpd.sh start
+  869  vi start_stop_restart_install_remove_httpd.sh 
+  870  clear
+  871  vi script.sh
+  872  sh script.sh 
+  873  cat s
+  874  cat script.sh 
+  875  ./start_stop_restart_install_remove_httpd.sh 
+  876  ./start_stop_restart_install_remove_httpd.sh install
+  877  clear
+  878  vi start_stop_restart_install_remove_httpd.sh 
+  879  ./start_stop_restart_install_remove_httpd.sh start
+  880  ./start_stop_restart_install_remove_httpd.sh 
+  881  vi start_stop_restart_install_remove_httpd.sh 
+  882  ./start_stop_restart_install_remove_httpd.sh start
+  883  ./start_stop_restart_install_remove_httpd.sh 
+  884  clear
+  885  cat start_stop_restart_install_remove_httpd.sh 
+  886  vi start_stop_restart_install_remove_httpd.sh 
+  887  ./start_stop_restart_install_remove_httpd.sh startasdfas
+  888  echo "start stop restart install remove"
+  889  echo "start stop restart install remove" | grep start
+  890  echo $?
+  891  echo "start stop restart install remove" | grep startasfasdfsadf
+  892  echo $?
+  893  echo "start stop restart install remove" | grep st
+  894  echo $?
+  895  echo "start stop restart install remove" | grep -w st
+  896  echo $?
+  897  clear
+  898  vi start_stop_restart_install_remove_httpd.sh 
+  899  ./start_stop_restart_install_remove_httpd.sh st
+  900  vi start_stop_restart_install_remove_httpd.sh 
+  901  ./start_stop_restart_install_remove_httpd.sh st
+  902  ./start_stop_restart_install_remove_httpd.sh start
+  903  vi start_stop_restart_install_remove_httpd.sh 
+  904  echo "start stop restart install remove" | grep -w start
+  905  vi start_stop_restart_install_remove_httpd.sh 
+  906  echo "start stop restart install remove"
+  907  echo "start stop restart install remove" | grep -w start
+  908  echo $?
+  909  echo "start stop restart install remove" | grep -w startaaaa
+  910  echo $?
+  911  echo start stop restart install remove | grep -w startaaaa
+  912  echo start stop restart install remove | grep -w start
+  913  echo start stop restart install remove | grep -w start 1>/dev/null
+  914  echo $?
+  915  echo start stop restart install remove | grep -w startafasf 
+  916  echo $?
+  917  clear
+  918  vi start_stop_restart_install_remove_httpd.sh 
+  919  ls
+  920  echo "hi" > hi.txt
+  921  cat hi.txt 
+  922  echo "hi" > /dev/null
+  923  clear
+  924  vi start_stop_restart_install_remove_httpd.sh 
+  925  ./start_stop_restart_install_remove_httpd.sh asfasfasf
+  926  ./start_stop_restart_install_remove_httpd.sh start
+  927  vi start_stop_restart_install_remove_httpd.sh 
+  928  cat /dev/null 
+  929  vi start_stop_restart_install_remove_httpd.sh 
+  930  ./start_stop_restart_install_remove_httpd.sh status
+  931  vi start_stop_restart_install_remove_httpd.sh 
+  932  ./start_stop_restart_install_remove_httpd.sh status
+  933  vi start_stop_restart_install_remove_httpd.sh 
+  934  ./start_stop_restart_install_remove_httpd.sh status
+  935  clear
+  936  ./start_stop_restart_install_remove_httpd.sh start
+  937  vi start_stop_restart_install_remove_httpd.sh 
+  938  ./start_stop_restart_install_remove_httpd.sh start
+  939  ./start_stop_restart_install_remove_httpd.sh status
+  940  cat start_stop_restart_install_remove_httpd.sh 
+  941  clear
+  942  vi start_stop_restart_install_remove_httpd.sh 
+  943  ./start_stop_restart_install_remove_httpd.sh start
+  944  vi start_stop_restart_install_remove_httpd.sh 
+  945  clear
+  946  ./start_stop_restart_install_remove_httpd.sh start
+  947  systemctl status httpd
+  948  sudo systemctl stop httpd
+  949  systemctl status httpd
+  950  clear
+  951  ./start_stop_restart_install_remove_httpd.sh start
+  952  systemctl status httpd
+  953  clear
+  954  cat start_stop_restart_install_remove_httpd.sh 
+  955  clear
+  956  cd
+  957  cd -
+  958  cat start_stop_restart_install_remove_httpd.sh 
+  959  vi test.sh 
+  960  ./te
+  961  sh test.sh 
+  962  cat e
+  963  cat test.sh 
+  964  vi test.sh 
+  965  sh test.sh 
+  966  clear
+  967  echo "ok" | tee -a
+  968  echo "ok" | tee -a >ok.txt
+  969  vi test.sh 
+  970  sh test.sh 
+  971  cat test.sh 
+  972  sh test.sh 
+  973  cat ex.txt 
+  974  clear
+  975  vi test.sh 
+  976  sh test.sh 
+  977  echo 'Movies' | tee -a folders_of_smart.txt
+  978  cat folders_of_smart.txt 
+  979  vi test.sh 
+  980  sh test.sh 
+  981  cat ex.txt 
+  982  vi test.sh 
+  983  sh test.sh 
+  984  cat ex.txt 
+  985  clear
+  986  exit
+  987  vi test.sh 
+  988  sh test.sh 
+  989  vi test.sh 
+  990  sh test.sh 
+  991  clear
+  992  vi test.sh 
+  993  sh test.sh 
+  994  vi test.sh 
+  995  sh test.sh 
+  996  vi test.sh 
+  997  sh test.sh 
+  998  vi test.sh 
+  999  clear
+ 1000  exit
+ 1001  clear
+ 1002  top
+ 1003  clear
+ 1004  ls -lrt
+ 1005  clear
+ 1006  cd May_2019/
+ 1007  LS
+ 1008  ls
+ 1009  mkdir Day-4
+ 1010  cp Day-3/start_stop_restart_install_remove_httpd.sh Day-4/
+ 1011  cd Day-4
+ 1012  clea
+ 1013  rls
+ 1014  clear
+ 1015  ls
+ 1016  vi start_stop_restart_install_remove_httpd.sh 
+ 1017  cat start_stop_restart_install_remove_httpd.sh 
+ 1018  which httpd
+ 1019  clear
+ 1020  sudo yum remove httpd -y
+ 1021  clear
+ 1022  which httpd
+ 1023  ./start_stop_restart_install_remove_httpd.sh status
+ 1024  which httpd
+ 1025  echo $?
+ 1026  which httpd 1>/dev/null 2>&1
+ 1027  echo $?
+ 1028  sudo yum install httpd -y
+ 1029  which httpd 1>/dev/null 2>&1
+ 1030  echo $?
+ 1031  clear
+ 1032  ls
+ 1033  ls 1>/dev/null
+ 1034  which tomcat 1>/dev/null
+ 1035  which tomcat
+ 1036  which docker
+ 1037  which docker 1>/dev/null
+ 1038  which docker 1>/dev/null 2>/dev/null
+ 1039  which docker 1>/dev/null 2>&1
+ 1040  which docker 1>/dev/null 2>docer_error.txt
+ 1041  cat docer_error.txt 
+ 1042  clear
+ 1043  vi if_else_if.sh
+ 1044  sg if_else_if.sh 
+ 1045  sh if_else_if.sh 
+ 1046  cat if_else_if.sh 
+ 1047  vi if_else_if.sh 
+ 1048  cat if_else_if.sh 
+ 1049  clear
+ 1050  sh if_else_if.sh 
+ 1051  sh if_else_if.sh  start
+ 1052  sh if_else_if.sh  status
+ 1053  cat if_else_if.sh 
+ 1054  clear
+ 1055  ls -lrt
+ 1056  vi file_is_existing_or_not.sh
+ 1057  sh file_is_existing_or_not.sh 
+ 1058  vi file_is_existing_or_not.sh 
+ 1059  sh file_is_existing_or_not.sh 
+ 1060  vi file_is_existing_or_not.sh 
+ 1061  sh file_is_existing_or_not.sh 
+ 1062  vi file_is_existing_or_not.sh 
+ 1063  sh file_is_existing_or_not.sh 
+ 1064  vi file_is_existing_or_not.sh 
+ 1065  sh file_is_existing_or_not.sh 
+ 1066  clear
+ 1067  vi file_is_existing_or_not.sh 
+ 1068  sh file_is_existing_or_not.sh 
+ 1069  pwd
+ 1070  vi file_is_existing_or_not.sh 
+ 1071  sh file_is_existing_or_not.sh 
+ 1072  touch x
+ 1073  cat x
+ 1074  ls -lrt
+ 1075  vi check_for_size.sh
+ 1076  sh check_for_size.sh 
+ 1077  echo "hi" > x
+ 1078  sh check_for_size.sh 
+ 1079  clear
+ 1080  > x
+ 1081  sh check_for_size.sh 
+ 1082  vi check_for_size.sh 
+ 1083  cat x
+ 1084  cat check_for_size.sh 
+ 1085  sh check_for_size.sh 
+ 1086  cat x
+ 1087  vi check_for_size.sh 
+ 1088  clear
+ 1089  cat x
+ 1090  cat check_for_size.sh 
+ 1091  sh check_for_size.sh 
+ 1092  cat x
+ 1093  vi check_for_size.sh 
+ 1094  ls -lrt
+ 1095  sh check_for_size.sh 
+ 1096  clear
+ 1097  vi check_for_size.sh 
+ 1098  sh check_for_size.sh 
+ 1099  echo "ok" > x
+ 1100  sh check_for_size.sh 
+ 1101  vi check_for_size.sh 
+ 1102  sh check_for_size.sh 
+ 1103  rm x
+ 1104  touch x
+ 1105  sh check_for_size.sh 
+ 1106  clear
+ 1107  vi check_for_size.sh 
+ 1108  vi new_check.sh
+ 1109  sh new_check.sh 
+ 1110  cat x
+ 1111  ls -lrt
+ 1112  vi new_check.sh 
+ 1113  cat x
+ 1114  sh new_check.sh 
+ 1115  echo "ok" > x
+ 1116  sh new_check.sh 
+ 1117  clear
+ 1118  ls -lrt
+ 1119  clear
+ 1120  vi existing_file_content.sh
+ 1121  ls
+ 1122  sh existing_file_content.sh if_else_if.sh
+ 1123  cat
+ 1124  cat x
+ 1125  rm x
+ 1126  touch x
+ 1127  sh existing_file_content.sh x
+ 1128  clear
+ 1129  mkdir tomcat_installation
+ 1130  cd tomcat_installation/
+ 1131  wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.20/bin/apache-tomcat-9.0.20.tar.gz
+ 1132  echo $?
+ 1133  ls -lrt
+ 1134  tar -xvzf apache-tomcat-9.0.20.tar.gz 
+ 1135  echo $?
+ 1136  ls -lrt
+ 1137  clear
+ 1138  ls -lrt
+ 1139  cd apache-tomcat-9.0.20
+ 1140  ls
+ 1141  cd bin/
+ 1142  ls
+ 1143  ./startup.sh 
+ 1144  echo $?
+ 1145  cd ..
+ 1146  clear
+ 1147  cd ..
+ 1148  ls
+ 1149  rm -rf *
+ 1150  ls -lrt
+ 1151  vi install_tomcat.sh
+ 1152  sh install_tomcat.sh 
+ 1153  vi install_tomcat.sh
+ 1154  sh install_tomcat.sh 
+ 1155  vi install_tomcat.sh 
+ 1156  sh install_tomcat.sh 
+ 1157  cat install_tomcat.sh 
+ 1158  vi requirements.txt
+ 1159  vi install_tomcat.sh 
+ 1160  sh install_tomcat.sh 
+ 1161  cat requirements.txt
+ 1162  vi install_tomcat.sh 
+ 1163  sh install_tomcat.sh 
+ 1164  clear
+ 1165  vi install_tomcat.sh 
+ 1166  sh install_tomcat.sh 
+ 1167  vi requirements.txt 
+ 1168  vi install_tomcat.sh 
+ 1169  sh install_tomcat.sh 
+ 1170  echo $?
+ 1171  vi install_tomcat.sh 
+ 1172  sh install_tomcat.sh 
+ 1173  echo $?
+ 1174  vi install_tomcat.sh 
+ 1175  clear
+ 1176  ls -lrt
+ 1177  sh install_tomcat.sh 
+ 1178  man wget
+ 1179  clear
+ 1180  ls
+ 1181  rm apache-tomcat-8.5.41.tar.gz 
+ 1182  vi install_tomcat.sh 
+ 1183  url="http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.20/bin/apache-tomcat-9.0.20.tar.gz"
+ 1184  echo $url | awk -F / '{print $NF}'
+ 1185  vi install_tomcat.sh 
+ 1186  x="apache-tomcat-9.0.20.tar.gz"
+ 1187  echo ${x}
+ 1188  echo ${x%.tar.gz}
+ 1189  vi install_tomcat.sh 
+ 1190  ls -lrt
+ 1191  sh install_tomcat.sh 
+ 1192  vi install_tomcat.sh 
+ 1193  sh install_tomcat.sh 
+ 1194  vi install_tomcat.sh 
+ 1195  clear
+ 1196  ls -lrt
+ 1197  rm apache-tomcat-8.5.41.tar.gz 
+ 1198  sh install_tomcat.sh 
+ 1199  clear
+ 1200  ls -lrt
+ 1201  rm -rf apache-tomcat-8.5.41*
+ 1202  vi install_tomcat.sh 
+ 1203  ls
+ 1204  sh install_tomcat.sh 
+ 1205  clear
+ 1206  ls -lrt
+ 1207  sh install_tomcat.sh 
+ 1208  ls -lrt
+ 1209  clear
+ 1210  vi install_tomcat.sh 
+ 1211  sh install_tomcat.sh 
+ 1212  clear
+ 1213  ls -lrt
+ 1214  rm -rf apache-tomcat-8.5.41*
+ 1215  sh install_tomcat.sh 
+ 1216  clear
+ 1217  ls -lrt
+ 1218  vi install_tomcat.sh 
+ 1219  history > day_4_history

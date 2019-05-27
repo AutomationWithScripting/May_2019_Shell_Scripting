@@ -1,0 +1,1 @@
+/usr/bin/which: no docker in (/usr/local/git/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/May_2019/bin)

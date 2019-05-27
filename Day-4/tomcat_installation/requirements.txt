@@ -1,0 +1,2 @@
+tomcat_major="8"
+req_tomcat_ver="8.5.41"
