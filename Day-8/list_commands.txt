@@ -1,0 +1,5 @@
+ls
+date
+which $BASH
+pwd
+cal

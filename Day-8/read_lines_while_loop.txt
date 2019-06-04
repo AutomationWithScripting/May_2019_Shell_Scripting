@@ -1,0 +1,15 @@
+#!/bin/bash
+
+OFS=$IFS
+
+read -p "Enter your file name " file_name
+
+while IFS="|" read f1 f2 f3
+do
+ echo ${f2}
+ sleep 1
+
+done < ${file_name}
+
+
+IFS=$OFS
